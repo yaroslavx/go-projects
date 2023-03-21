@@ -1,3 +1,3 @@
-## Hello in repo with some Go projects
+## Hello, this is a repo with some Go projects
 
 all projects in folders
